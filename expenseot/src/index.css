@@ -1,0 +1,13 @@
+#root, body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background:  url(./assets/background2.jpg);
+    background-size: cover;
+    overflow-x: hidden;
+    
+
+}
+
